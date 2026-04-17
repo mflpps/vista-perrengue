@@ -3,6 +3,7 @@
 
 Este repositório contém todos dos artefatos necessários para a página web estática do projeto Vista Perrengue
 
+```
 vista-perrengue/
 │
 ├── assets/
@@ -28,5 +29,6 @@ vista-perrengue/
 ├── README.md/
 ├── error.html/
 └── index.html
+```
 
 O template que deu origem a este site foi desenvolvido por: AJ e HTML5 UP
