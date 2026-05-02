@@ -31,4 +31,4 @@ vista-perrengue/
 └── index.html
 ```
 
-O template que deu origem a este site foi desenvolvido por: AJ e HTML5 UP
+O template que deu origem a este site foi desenvolvido por: [AJ](https://twitter.com/ajlkn) e [HTML5 UP](https://html5up.net/)
